@@ -4,5 +4,6 @@ Index page for links to my leetcode repos. All code were written in Rust. Some w
 
 - [Rust](https://github.com/liangcorp/algorithms_and_leetcode_rust)
 - [C](https://github.com/liangcorp/algorithms_and_leetcode_c)
+- [C++](https://github.com/liangcorp/algorithms_cpp)
 - [Zig](https://github.com/liangcorp/algorithms_and_leetcode_zig)
 - [Go](https://github.com/liangcorp/algorithms_and_leetcode_golang)
